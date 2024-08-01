@@ -1,1 +1,1 @@
-# Stopwatch
+A simple HTML and Javascript fully functional stopwatch
